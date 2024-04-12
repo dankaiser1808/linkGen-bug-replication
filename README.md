@@ -2,7 +2,7 @@
 
 
 ## Assemblies affected
-Microsoft.AspNetCore.OData Version 7.7.4
+Microsoft.AspNetCore.OData Version 7.7.4 and also 8.2.5
 
 
 ## Description
